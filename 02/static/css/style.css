@@ -1,0 +1,14 @@
+.glavni-naslov
+{
+	color: green;
+}
+
+.slika1
+{
+	border: 5px solid black;
+}
+
+.slika1:hover
+{
+	border: 5px solid red;
+}
